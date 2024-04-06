@@ -1,0 +1,10 @@
+.calendarTable{
+    display:grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+.activeDateBtn{
+    font-weight:900;
+    border: solid 2px;
+    color: brown;
+}
